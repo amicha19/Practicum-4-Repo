@@ -1,4 +1,4 @@
-## Instructions
+# Instructions
 ## Practicum 4 - Keywords in Java
 
 **BACKGROUND**<br>
